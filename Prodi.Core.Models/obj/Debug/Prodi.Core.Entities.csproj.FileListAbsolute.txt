@@ -1,0 +1,6 @@
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\bin\Debug\Prodi.Core.Models.dll
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\bin\Debug\Prodi.Core.Models.pdb
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\obj\Debug\Prodi.Core.Entities.csprojAssemblyReference.cache
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\obj\Debug\Prodi.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\obj\Debug\Prodi.Core.Models.dll
+C:\Users\eromancz\source\repos\Prodi.Core.Web\Prodi.Core.Models\obj\Debug\Prodi.Core.Models.pdb
