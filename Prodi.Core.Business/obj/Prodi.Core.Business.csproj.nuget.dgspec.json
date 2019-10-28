@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Business\\Prodi.Core.Business.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Business\\Prodi.Core.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Business\\Prodi.Core.Business.csproj": {
+    "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Business\\Prodi.Core.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Business\\Prodi.Core.Business.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Business\\Prodi.Core.Business.csproj",
         "projectName": "Prodi.Core.Business",
-        "projectPath": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Business\\Prodi.Core.Business.csproj",
-        "packagesPath": "C:\\Users\\eromancz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Business\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Business\\Prodi.Core.Business.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eromancz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -43,6 +43,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

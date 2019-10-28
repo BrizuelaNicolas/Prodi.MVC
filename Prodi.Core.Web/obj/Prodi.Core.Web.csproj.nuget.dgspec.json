@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Web\\Prodi.Core.Web.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Web\\Prodi.Core.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Web\\Prodi.Core.Web.csproj": {
+    "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Web\\Prodi.Core.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Web\\Prodi.Core.Web.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Web\\Prodi.Core.Web.csproj",
         "projectName": "Prodi.Core.Web",
-        "projectPath": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Web\\Prodi.Core.Web.csproj",
-        "packagesPath": "C:\\Users\\eromancz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eromancz\\source\\repos\\Prodi.Core.Web\\Prodi.Core.Web\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Web\\Prodi.Core.Web.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\Prodi.MVC-master\\Prodi.Core.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eromancz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodi.Core.Web", "Prodi.Core.Web\Prodi.Core.Web.csproj", "{86A397C0-C214-4CDB-921A-F48C7053741F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodi.Core.Web", "Prodi.Core.Web\Prodi.Core.Web.csproj", "{86A397C0-C214-4CDB-921A-F48C7053741F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodi.Core.Repository", "Prodi.Core.Repository\Prodi.Core.Repository.csproj", "{47211F5A-CF21-43DA-816F-CFC1AA19918C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodi.Core.Entities", "Prodi.Core.Models\Prodi.Core.Entities.csproj", "{2B81EEB0-50C1-44B0-A7F5-384C6D7E29F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodi.Core.Business", "Prodi.Core.Business\Prodi.Core.Business.csproj", "{61549A54-4E21-47DA-9729-288ECEFD1A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodi.Core.Business", "Prodi.Core.Business\Prodi.Core.Business.csproj", "{61549A54-4E21-47DA-9729-288ECEFD1A5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D47A17BC-5B13-4307-843B-5DC22EDEDE71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{61549A54-4E21-47DA-9729-288ECEFD1A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61549A54-4E21-47DA-9729-288ECEFD1A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61549A54-4E21-47DA-9729-288ECEFD1A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47A17BC-5B13-4307-843B-5DC22EDEDE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47A17BC-5B13-4307-843B-5DC22EDEDE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47A17BC-5B13-4307-843B-5DC22EDEDE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47A17BC-5B13-4307-843B-5DC22EDEDE71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
